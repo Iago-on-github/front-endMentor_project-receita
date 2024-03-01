@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 388px) and (max-width: 768px) {
+    body {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .imgOmelete img {
+        width: 486px;
+        border-radius: 0px;
+        transform: translate(-7%, -14%);
+        margin: -35px 0px -10px 0px;
+    }
+
+    section {
+        height: 1700px;
+        width: 482px;
+        border-radius: 8px;
+    }
+}
